@@ -4,6 +4,8 @@ out/
 tmp/
 models/
 models-mnt
+.idea
+cmake-build-debug
 
 compile_commands.json
 CMakeSettings.json
